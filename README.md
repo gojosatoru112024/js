@@ -1,2 +1,2 @@
 # js
-learning js basic to advance
+learn javascript basic to advance
